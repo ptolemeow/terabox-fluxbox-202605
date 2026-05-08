@@ -1,0 +1,44 @@
+!! ============================================
+!! for XTerm
+!! ============================================
+
+XTerm*geometry: 120x30
+
+XTerm*faceName: Roboto Mono
+XTerm*faceSize: 11
+
+!! XTerm*font: 9x15
+!! XTerm*boldFont: 9x15bold
+
+XTerm*termName: xterm-256color
+
+# 'VS Code Dark+'-ish palette
+XTerm*background: #1e1e1e
+XTerm*foreground: #d4d4d4
+XTerm*cursorColor: #4ec9b0
+XTerm*cursorBlink: 1
+XTerm*color0: #000000
+XTerm*color1: #cd3131
+XTerm*color2: #0dbc79
+XTerm*color3: #e5e510
+XTerm*color4: #2472c8
+XTerm*color5: #bc3fbc
+XTerm*color6: #11a8cd
+XTerm*color7: #e5e5e5
+XTerm*color8: #666666
+XTerm*color9: #f14c4c
+XTerm*color10: #23d18b
+XTerm*color11: #f5f543
+XTerm*color12: #3b78e7
+XTerm*color13: #9e6bbe
+XTerm*color14: #29c5db
+XTerm*color15: #ffffff
+
+XTerm*scrollBar.width: 6
+XTerm*scrollBar: true
+XTerm*scrollTtyOutput: 0
+XTerm*scrollKey: 1
+
+XTerm*showMenubar: 0
+XTerm*boldMode: 1
+XTerm*topAtTop: 0

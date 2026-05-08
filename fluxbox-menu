@@ -1,0 +1,15 @@
+[begin] (Fluxbox)
+  [exec] (TeraBox) {/opt/TeraBox/terabox --no-sandbox}
+  [exec] (DoubleCmd) {doublecmd}
+  [exec] (XTerm) {xterm}
+  [separator]
+  [config] (Configuration)
+  [submenu] (Styles) {}
+     [stylesdir] (/usr/share/fluxbox/styles)
+     [stylesdir] (~/.fluxbox/styles)
+  [end]
+  [workspaces] (Workspaces)
+  [reconfig] (Reconfigure)
+  [restart] (Restart)
+  [exit] (Exit)
+[end]
