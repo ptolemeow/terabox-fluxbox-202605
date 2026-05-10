@@ -12,7 +12,7 @@ Built image ~1.56GB, consisting of:
 
 # CLONE REPO
 ```sh
-git clone https://github.com/ptolemeow/terabox-fluxbox-202605`
+git clone https://github.com/ptolemeow/terabox-fluxbox-202605
 ```
 
 
